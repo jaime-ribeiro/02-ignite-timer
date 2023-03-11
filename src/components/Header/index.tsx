@@ -6,7 +6,7 @@ export function Header() {
     <HeaderContainer>
       <img src={logoIgnite} alt="" />
       <nav>
-        <a href="">timer</a>
+        <a href="teste">timer</a>
         <a href="">history</a>
       </nav>
     </HeaderContainer>
